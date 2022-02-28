@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #e8f1f8;
 }
@@ -90,4 +91,98 @@ table {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:white;
     
+=======
+body{
+    background-color: #e8f1f8;
+}
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color:#6555b5;
+}
+.all {
+    color:plum;
+    background-color: white;
+    font-family:Helvetica, sans-serif;
+}
+.paragraph1 {
+    color:#6555b5;
+    background-color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraph2 {
+    color:darkblue;
+    background-color: lightblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraph3 {
+    color:black;
+    background-color:azure;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraph4 {
+    color:azure;
+    background-color: darkblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraph5 {
+    color:#4f3a52;
+    background-color: lightsteelblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+}
+lh{
+    font-family:OCR A Std, monospace;
+    font-style: oblique;
+}
+.milestoneone {
+    color:#630330;
+    background-color:#e3e9ff;
+    font-family: 'Courier New', Courier, monospace;
+}
+.milestonetwo {
+    color:#301934;
+    background-color:#b5bfe8;
+    font-family:'Courier New', Courier, monospace
+}
+.milestonethree {
+    color:#4f3a52;
+    background-color:#6f7fbd;
+    font-family:'Courier New', Courier, monospace
+ 
+}
+.milestonefour {
+    color:#301934;
+    background-color:#5363a6;
+    font-family:'Courier New', Courier, monospace
+}
+.milestonefive {
+    color:#311465;
+    background-color:#c8a2c9;
+    font-family:'Courier New', Courier, monospace 
+}
+.source {
+    color:#3a50a6;
+    font-family:Helvetica, sans-serif;
+}
+.copyright {
+    color:purple;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.source-head {
+    color:blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+table {
+    background-color: #b5bfe8;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    
+>>>>>>> 23dad16bee43cbfe91bb724ea18f98a0a390e7c6
 }
