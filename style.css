@@ -90,9 +90,16 @@ table {
     background-color: #b5bfe8;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:white;
-    width:200%;
-    height:100px
-    margin-left:auto
-    margin-right:auto
+    height:300px
+}
+.jumbotron{
+background-color:white
+}
+a{
+    color:white
+}
+.jumbotron,.paragraph1{
+    background-color:whitesmoke
+}
 
     
